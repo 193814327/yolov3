@@ -1,6 +1,11 @@
 ## YOLOV3：You Only Look Once目标检测模型在Pytorch当中的实现
 ---
 
+
+
+本代码是关于yolov3模型在VOC数据集上训练
+代码来源：https://github.com/bubbliiiing/yolo3-pytorch/tree/bilibili
+
 ## 目录
 1. [仓库更新 Top News](#仓库更新)
 2. [相关仓库 Related code](#相关仓库)
